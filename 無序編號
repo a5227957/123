@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+    </head>
+    <body>
+        <ul>新竹最美麗的地方
+            <li>城隍廟</li>
+            <li>清大</li>        
+            <li>東門城</li>
+        </ul>
+    </body>
+</html>
