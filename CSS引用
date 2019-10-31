@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+        <!--embeded CSS-->
+        <style>
+            h1 {color: red;}
+        </style>
+        <!--link-->
+        <link rel="stylesheet" href="link.css">
+        <!--import-->
+        <style>
+            @import url("import.css");        
+        </style>
+    </head>
+    <!--Inline CSS-->
+    <body style="background: lightblue">
+        <h1>CSS A</h1>
+        <h2>CSS B</h2>
+        <h3>CSS C</h3>
+    </body>
+</html>
