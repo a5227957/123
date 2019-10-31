@@ -1,0 +1,19 @@
+<<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+    <style>
+        #s1 {color: #808080; font-family: 標楷體; font-size: 50px;
+            font-style: italic; font-weight: bold;}
+        .s2{font: italic bold 30px 標楷體; color: red;}
+    </style>
+    </head>
+    <body>
+     <span id="s1">月落烏啼霜滿天，
+     江楓漁火對愁眠。</span>
+     姑蘇城外寒山寺，
+     <span class="s2">夜半鐘聲到客船。</span>
+    </body>
+</html>
