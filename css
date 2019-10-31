@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+        <style>
+            h2 {color: green;}
+        </style>
+    </head>
+    <body>
+        <h1 style="color: red">顏色</h1>
+        <h2>顏色II</h2>
+        <h3> <font color=yellow>我快瞎掉了</font></h3>
+    </body>
+</html>
